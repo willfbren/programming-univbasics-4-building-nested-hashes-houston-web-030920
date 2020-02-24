@@ -2,7 +2,7 @@ def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
 	monopoly = {
-	  :key => 4
+	  :railroads => 4
 	}
 end
 
